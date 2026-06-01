@@ -1,7 +1,6 @@
 # Structural Ambiguity in Wearable Physiological AI
 ### A Coupling Divergence Framework for Detection and Safe Abstention 
 University of California, Irvine  
-*IEEE Body Sensor Networks (BSN) 2026*
 
 ---
 
